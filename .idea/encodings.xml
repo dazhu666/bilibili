@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/web-app/bootstrap/css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-app/bootstrap/fonts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-app/bootstrap/img" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-app/bootstrap/js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-app/css/bootstrap.min.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-app/js/bootstrap.min.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-app/js/jquery-2.0.3.min.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-app/kj/css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-app/kj/image" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-app/kj/js" charset="UTF-8" />
+  </component>
+</project>
